@@ -1,0 +1,13 @@
+.player-console {
+  display: none;
+}
+
+body {
+  background-image: url("../img/images.jpg");
+  background-repeat: no-repeat;
+}
+
+.jumbotron {
+  background-color: rgba(100, 100, 100, 0.5);
+  color: #ffffff;
+}
